@@ -523,7 +523,8 @@ The `translate` method shifts all points in Euclidean space by a specified vecto
 ```
 In this example, a regular pentagon is translated by a randomly generated 2D vector, and the changes in the points are visualized on a plot.
 
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/euclidean_translation.png" alt="GitHub Logo" width="500"/>
+
+<img src="https://github.com/puoya/HyperTree/blob/main/images/euclidean_translation.png" alt="GitHub Logo" width="500"/>
 
 This demonstrates the effect of the `translate` method on the pentagon's vertices, illustrating how the points move to their new positions.
 
