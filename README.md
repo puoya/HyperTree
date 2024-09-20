@@ -803,7 +803,7 @@ tensor([[ 0.2500],
 >>> plt.show()
 ```
 
-<img src="https://github.com/puoya/HyperTree/blob/main/images/euclidean_rotation.png" alt="GitHub Logo" width="1000"/>
+<img src="https://github.com/puoya/HyperTree/blob/main/images/rotation_poincare.png" alt="GitHub Logo" width="1000"/>
 
 
 # LoidEmbedding Class
