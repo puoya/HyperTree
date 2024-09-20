@@ -1003,7 +1003,7 @@ tensor([[ 1.0000e+00],
 ```
 
 
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/loid_rotation.png" alt="GitHub Logo" width="500"/>
+<img src="https://github.com/puoya/HyperTree/blob/main/images/loid_rotation.png" alt="GitHub Logo" width="500"/>
 
 # `EuclideanProcrustes` Class
 The `EuclideanProcrustes` class performs Euclidean orthogonal Procrustes analysis, which is a method used to align one embedding (source) to another embedding (target) by finding the best-fitting orthogonal transformation (rotation and translation). This process minimizes the alignment error between the two embeddings, making them as similar as possible in Euclidean space.
