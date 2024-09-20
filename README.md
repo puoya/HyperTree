@@ -551,7 +551,7 @@ The `rotate` method allows you to rotate the points in Euclidean space by applyi
 ```
 
 
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/euclidean_rotation.png" alt="GitHub Logo" width="500"/>
+<img src="https://github.com/puoya/HyperTree/blob/main/images/euclidean_rotation.png" alt="GitHub Logo" width="500"/>
 
 
 ## `center`,`centroid`, and `distance_matrix`  Methods
@@ -765,7 +765,9 @@ tensor([[ 0.2500],
 >>> plt.tight_layout()
 >>> plt.show()
 ```
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/poincare_translation.png" alt="GitHub Logo" width="1000"/>
+
+
+<img src="https://github.com/puoya/HyperTree/blob/main/images/poincare_translation.png" alt="GitHub Logo" width="1000"/>
 
 
 ```python
@@ -800,8 +802,7 @@ tensor([[ 0.2500],
 >>> plt.show()
 ```
 
-
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/rotation_poincare.png" alt="GitHub Logo" width="1000"/>
+<img src="https://github.com/puoya/HyperTree/blob/main/images/euclidean_rotation.png" alt="GitHub Logo" width="1000"/>
 
 
 # LoidEmbedding Class
@@ -984,7 +985,8 @@ tensor([[ 1.0000e+00],
         [-6.7987e-17]], dtype=torch.float64)
 >>> plt.show()
 ```
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/loid_translate.png" alt="GitHub Logo" width="500"/>
+
+<img src="https://github.com/puoya/HyperTree/blob/main/images/loid_translate.png" alt="GitHub Logo" width="500"/>
 
 
 ```python
@@ -1097,7 +1099,8 @@ This example demonstrates the effect of adding Gaussian noise to the target embe
 ```
 This plot demonstrates how the alignment error increases as more noise is added to the target embedding, showing the robustness of the Procrustes analysis under varying levels of distortion.
 
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/noisy_euclidean_procrustes.png" alt="GitHub Logo" width="500"/>
+
+<img src="https://github.com/puoya/HyperTree/blob/main/images/noisy_euclidean_procrustes.png" alt="GitHub Logo" width="500"/>
 
 
 # `HyperbolicProcrustes` Class
@@ -1213,7 +1216,8 @@ We now demonstrates the effect of adding Gaussian noise to the target embedding 
 
 This plot demonstrates how the alignment error increases as more noise is added to the target embedding, showing the robustness of the Procrustes analysis under varying levels of distortion.
 
-<img src="https://github.com/puoya/accurate_tree_embedding/blob/main/figures/hyperbolic_procrustes_random.png" alt="GitHub Logo" width="500"/>
+
+<img src="https://github.com/puoya/HyperTree/blob/main/images/euclidean_rotation.png" alt="GitHub Logo" width="500"/>
 
 
 
