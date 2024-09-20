@@ -1218,7 +1218,8 @@ We now demonstrates the effect of adding Gaussian noise to the target embedding 
 This plot demonstrates how the alignment error increases as more noise is added to the target embedding, showing the robustness of the Procrustes analysis under varying levels of distortion.
 
 
-<img src="https://github.com/puoya/HyperTree/blob/main/images/euclidean_rotation.png" alt="GitHub Logo" width="500"/>
+
+<img src="https://github.com/puoya/HyperTree/blob/main/images/hyperbolic_procrustes_random.png" alt="GitHub Logo" width="500"/>
 
 
 
